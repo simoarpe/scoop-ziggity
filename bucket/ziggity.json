@@ -1,5 +1,5 @@
 {
-    "version": "0.50.0",
+    "version": "0.51.0",
     "description": "A fast terminal UI for Git, written in Zig.",
     "homepage": "https://ziggity.dev",
     "license": "MIT",
@@ -12,8 +12,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/simoarpe/ziggity/releases/download/v0.50.0/ziggity-v0.50.0-x86_64-windows-gnu.zip",
-            "hash": "d303a46a3f17f8122b090a7b02aa8c4b4de57638f9218795d8da89cea2743229"
+            "url": "https://github.com/simoarpe/ziggity/releases/download/v0.51.0/ziggity-v0.51.0-x86_64-windows-gnu.zip",
+            "hash": "ebf351ea301329e67644e5ba2b2713ca05d11c7ff3a004bc0cb93271d9fddd16"
         }
     },
     "bin": "ziggity.exe"
